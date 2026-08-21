@@ -108,7 +108,7 @@ The dashboard can be used to answer questions such as:
 6. Which supply-chain areas require attention?
 7. What business segments are contributing positively or negatively to overall performance?
 
-## 📁 Recommended Repository Structure
+## 📁 Repository Structure
 
 ```text
 Power-BI-Business-Analytics/

@@ -26,6 +26,28 @@ The dashboard is designed to help business stakeholders:
 - **Data Modeling** – relationships between fact and dimension tables
 - **Power BI Visualizations** – interactive charts, KPI cards, tables, and filters
 
+## 📸 Dashboard Screenshots
+
+### Home Dashboard
+
+![Home Dashboard](./Screenshots/Home_Page.png)
+
+### Finance Dashboard
+
+![Finance Dashboard](./Screenshots/Finance_View.png)
+
+### Sales Dashboard
+
+![Sales Dashboard](./Screenshots/Sales_View.png)
+
+### Marketing Dashboard
+
+![Marketing Dashboard](./Screenshots/Marketting_View.png)
+
+### Supply Chain Dashboard
+
+![Supply Chain Dashboard](./Screenshots/Supply_Chain_View.png)
+
 ## 🗂️ Report Structure
 
 The PBIX contains multiple report pages covering different analytical areas, including:
